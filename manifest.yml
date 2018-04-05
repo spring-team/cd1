@@ -1,6 +1,6 @@
 ---
 applications:
-- name: cd1
+- name: "cd1"
   memory: 1024M
   instances: 1
   buildpack: https://github.com/cloudfoundry/java-buildpack.git
